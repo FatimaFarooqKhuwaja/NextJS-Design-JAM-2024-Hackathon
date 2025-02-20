@@ -61,3 +61,12 @@ application to a live, customer-facing environment. The goal was to test the
 application in a production-like setting, which helps to identify any deployment 
 or configuration issues that might arise during the final deployment to 
 production.
+
+
+DAY 7 - LIVE DEPLOYMENT AND POST-LAUNCH PRACTICES
+Day 7 is the final step of the hackathon, where we will deploy their marketplace to 
+a live production environment, consolidating all the work completed in the previous 
+days to create a fully functional and customer-ready platform. This stage focuses on 
+following industry-standard best practices for deployment, ensuring security, 
+scalability, and operational readiness. Additionally, include branding, marketing, and business partnerships, while 
+emphasizing the importance of staying on the technology track.
